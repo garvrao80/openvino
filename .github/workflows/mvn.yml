@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: c755364d3948017433ba97df98a7be69f75fb028
+          ref: 357ff5b29fb4600f0bfa6e39b8516235da690f22
           persist-credentials: false
       - name: Prepare OpenVINO dependencies
         shell: pwsh
