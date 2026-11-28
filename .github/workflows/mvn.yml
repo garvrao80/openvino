@@ -36,4 +36,4 @@ jobs:
         with:
           name: mvn-native-tests
           path: artifact
-          retention-days: 3
+          retention-days: 14
